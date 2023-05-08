@@ -4,7 +4,7 @@
 
 set -euxo pipefail
 
-# Variable Declaration
+# Переменная
 
 KUBERNETES_VERSION="1.27.0"
 
